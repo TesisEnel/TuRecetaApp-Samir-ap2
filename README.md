@@ -1,3 +1,4 @@
+
 # TuReceta
 
 TuReceta es una aplicación de recetas que consume datos de TheMealDB API para presentar a los usuarios una amplia colección de platos deliciosos, incluyendo información detallada sobre ingredientes, instrucciones de preparación y más.
